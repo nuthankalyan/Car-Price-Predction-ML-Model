@@ -1,6 +1,6 @@
-# Car-Price-Predction-ML-Mode
-->Collected the data of car features
-->Performed Data Preprocessing and Data Cleaning
-->Splitted the data into train and test
-->trained the model using Multi Linear Regression
-->Predicted using the Model.
+# Car-Price-Predction-ML-Mode:
+1)Collected the data of car features
+2)Performed Data Preprocessing and Data Cleaning
+3)Splitted the data into train and test
+4)trained the model using Multi Linear Regression
+5)Predicted using the Model.
